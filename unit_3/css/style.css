@@ -1,6 +1,13 @@
 body {
-	background-color: pink;
+	background-color: #000;
+/*	background: url("../images/clockwork_yard.jpg") no-repeat;*/
+
 }
 h1, p {
 	color: green;
+}
+
+.student{
+	width: 600px;
+	height: auto;
 }
